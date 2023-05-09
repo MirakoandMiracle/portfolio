@@ -1,0 +1,15 @@
+.logo {
+  width: 70px;
+}
+.btn-pink {
+  background-color: #ed7599;
+}
+
+.pink {
+  color: #ed7599;
+}
+
+.pink:hover {
+  color: deeppink;
+  padding: 10px;
+}
