@@ -13,3 +13,17 @@
   color: deeppink;
   padding: 10px;
 }
+
+
+.forsmall {
+  display: none;
+}
+@media (max-width: 769px) {
+  .forlarge {
+    display: none;
+  }
+
+  .forsmall {
+    display: block;
+  }
+}
